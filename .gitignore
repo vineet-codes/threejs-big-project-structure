@@ -1,0 +1,5 @@
+bundler
+node_modules
+.DS_Store
+static
+package-lock.json
